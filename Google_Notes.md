@@ -21,15 +21,14 @@ Ask clarifying questions if you don't understand the problem or if you need more
 #### Improve
 Always be thinking about ways to make it more optimal and be FLEXIBLE to new ideas.
 
+NEEEEED
+1. You have to get the brute force solution as fast as you can.
+2. After you get the brute force solution, discuss the tradeoffs // time and space comp.
+3. Code. They don't want pseudocode, they want actual insights as to your technical ability
+4. If you don't remember the exact method off the top of your head, say that you don't but you know what it does.
 
-
-
-
-
-
-
-
-
+#### Ask Questions
+At the end of the interview, you need to ask questions about the company, the culture, etc.
 
 
 
