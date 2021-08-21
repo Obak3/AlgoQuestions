@@ -13,6 +13,13 @@
 4. Questions are open ended on purpose... they want you to ask clarifying questions!
 5. Explicitly state and check any assumptions that you would need to begin a solution!!!!
 
+**THINK OUT LOUD**
+
+#### Clarify
+Ask clarifying questions if you don't understand the problem or if you need more info! They're purposefully vague because the engineers want to see how you engage with oen of them. They're particularly looking for what you view to be the most important piece of the puzzle that you've been presented. TAKE THE TIPS SERIOUSLY. They're trying to help you so you have to think through these and see where they are likely applicable!
+
+#### Improve
+Always be thinking about ways to make it more optimal and be FLEXIBLE to new ideas.
 
 
 
