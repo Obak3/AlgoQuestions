@@ -30,6 +30,13 @@ NEEEEED
 #### Ask Questions
 At the end of the interview, you need to ask questions about the company, the culture, etc.
 
+## Technical Prep!
+
+#### Coding
+1. Construct / traverse data structures
+2. Implement system routines
+3. Distill large data sets into single values (conditional branching?)
+4. Transform one data set to another
 
 
 
