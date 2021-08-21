@@ -9,3 +9,5 @@ This is a **personal** repo that is designed to keep me accountable as I prepare
 3. Several array problems in two different complexities to help the understanding.  
 
 
+I got an interview at Google! Look at the README for updates on how I prep.
+
