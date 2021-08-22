@@ -6,7 +6,7 @@ This is a **personal** repo that is designed to keep me accountable as I prepare
 
 | Question | Solution | Additional Insight |
 | --- | ----------- | ---------------------- |
-| Two Sum | Proof of Concept | This is a thing |
+| Two Sum | Create a hashmap so you have constant lookup time and don't have to iterate again. | Try to use hashmaps wherever you can, you'll probably get SOMEWHERE. |
 
 I got an interview at Google! Look at the README for updates on how I prep.
 
