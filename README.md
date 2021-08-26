@@ -16,6 +16,7 @@ This is a **personal** repo that is designed to keep me accountable as I prepare
 ### Linked Lists
 
 | Question | Solution | Additional Insight |
+| --- | ----------- | ---------------------- |
 | Linked List Cycle (Easy) | You're not given the index position to see if it's truly linked. So either do a while loop and add to a set because you can't have duplicate values or use a two pointer solution. | Two pointer solutions are kind of sick, try to use them where you can and run some problems with just those. |
 
 ### Graphs 
