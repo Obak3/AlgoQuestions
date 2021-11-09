@@ -72,4 +72,16 @@ The questions are basically just the top questions from all DS/A categories w/o 
 10. Tag Validator
 
 ### Binary Search Trees
+1. Convert Sorted Array to Binar Search Tree 
+2. Lowest Common Ancestor of a BST
+3. Increasing Order Search Tree
+4. Range Sum of BST
+5. Validate Binary Search Tree
+6. Unique BST
+7. Delete Node in a BST
+8. Recover BST
+9. Closest BST Value 2
+10. Number of Ways to Reorder Array to Get Same BST
+
+### Strings
 
