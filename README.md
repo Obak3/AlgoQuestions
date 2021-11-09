@@ -34,3 +34,18 @@ The questions are basically just the top questions from all DS/A categories w/o 
 8. Next Permutation
 9. Sudoku Solver
 10. First Missing Positive
+
+### Hash Maps
+1. Roman to Integer
+2. Intersection of Two Linked Lists
+3. Majority Element
+4. Happy Nmber
+5. Integer to Roman
+6. Letter Combinations of a Phone Number
+7. Group Anagrams
+8. Longest Consecutive Sequence
+9. First Missing Positive
+10. Minimum Window Substring
+
+### Trees
+
