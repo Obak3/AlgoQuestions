@@ -2,6 +2,9 @@
 
 This is a **personal** repo that is designed to keep me accountable as I prepare for interview season. I'll list week by week what I'm doing, what I accomplished, etc. This will be updated frequently.     
 
+
+blah blah blah
+
 ## Tracking Problems
 
 ### Hash Map 
