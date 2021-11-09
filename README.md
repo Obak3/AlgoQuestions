@@ -16,3 +16,21 @@ The questions are basically just the top questions from all DS/A categories w/o 
 7. Graphs
 8. Queues
 9. Heaps
+
+
+---
+
+## Problems Per DS (Correspond to LC Problems)
+
+
+### Arrays
+1. Two Sum
+2. Remove Duplicates from Sorted Array 
+3. Remove Element
+4. Search Insert Position
+5. Container With Most Water
+6. 3 Sum
+7. 4 Sum
+8. Next Permutation
+9. Sudoku Solver
+10. First Missing Positive
