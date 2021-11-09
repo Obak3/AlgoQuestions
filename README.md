@@ -59,4 +59,17 @@ The questions are basically just the top questions from all DS/A categories w/o 
 9. Longest Valid Parentheses
 10. Trapping Rain Water
 
+### Stacks
+1. Valid Parentheses
+2. Min Stack
+3. Palindrome Linked List
+4. Remove All Adjacent Duplicates
+5. Flatten Binary Tree to Linked List
+6. Reorder List
+7. Basic Calculator 2
+8. Flatted Nested List Iterator
+9. Basic Calculator
+10. Tag Validator
+
+### Binary Search Trees
 
