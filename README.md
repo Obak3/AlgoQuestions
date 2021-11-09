@@ -48,4 +48,15 @@ The questions are basically just the top questions from all DS/A categories w/o 
 10. Minimum Window Substring
 
 ### Trees
+1. Invert Binary Tree
+2. Diameter of Binary Tree
+3. Symmetric Tree
+4. Maximum Depth of Binary Tree 
+5. Add Two Numbers
+6. Longest Palindromic Substring
+7. Generate Parentheses
+8. Swap Nodes in Pair 
+9. Longest Valid Parentheses
+10. Trapping Rain Water
+
 
