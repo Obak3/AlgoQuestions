@@ -107,3 +107,15 @@ The questions are basically just the top questions from all DS/A categories w/o 
 9. Sort List
 10. Reverse Nodes in k-group 
 11. LFU Cache
+
+### Graphs
+1. Find if Path Exists in Graph
+2. Find Center of Start Graph
+3. Find the Town Judge
+4. Course Schedule 2
+5. Reconstruct Itinerary 
+6. Evaluate Division
+7. Clone Graph
+8. Cheapest Flights Within K Stops
+
+
