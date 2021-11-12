@@ -54,3 +54,6 @@ remove()	Removes the first item with the specified value
 reverse()	Reverses the order of the list
 sort()	Sorts the list
 
+
+
+// TODO Do all of this in Markdown you fool
