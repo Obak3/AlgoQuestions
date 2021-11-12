@@ -118,7 +118,7 @@ The questions are basically just the top questions from all DS/A categories w/o 
 7. Clone Graph
 8. Cheapest Flights Within K Stops
 
-Heaps
+### Heaps
 1. The K Weakest Rows in a Matrix 
 2. Last Stone Weight 
 3. Kth Largest Element in a Stream
