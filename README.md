@@ -94,3 +94,16 @@ The questions are basically just the top questions from all DS/A categories w/o 
 8. Word Break
 9. Text Justification
 10. Word Ladder
+
+### Linked Lists
+1. Middle of the Linked List
+2. Merge Two Sorted Lists
+3. Intersection of Two Linked Lists
+4. Delete N Nodes After M Nodes
+5. Copy List with Random Pointer
+6. Add Two Numbers 2
+7. Odd Even Linked List
+8. Rotate List
+9. Sort List
+10. Reverse Nodes in k-group 
+11. LFU Cache
