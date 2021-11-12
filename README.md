@@ -118,4 +118,14 @@ The questions are basically just the top questions from all DS/A categories w/o 
 7. Clone Graph
 8. Cheapest Flights Within K Stops
 
-
+Heaps
+1. The K Weakest Rows in a Matrix 
+2. Last Stone Weight 
+3. Kth Largest Element in a Stream
+4. Maximum Product of Two Elements
+5. Meeting Rooms 2
+6. Kth Largest Element in an Array
+7. Top K Frequent Elements
+8. Task Scheduler
+9. Find Median form Data Stream
+10. Merge K Sorted Lists
