@@ -7,16 +7,16 @@ The questions are basically just the top questions from all DS/A categories w/o 
 
 ## Question List
 
-lol I'm going to run through the Blind 75 for the most part....
+lol I'm just going to go through the 'Top Interview Questions' from LC and then target MSFT
 
 | Question Name | Approach | Insight |
 | ----------- | ----------- | -------------- |
 | Two Sum | Placeholder      | I'm going to become a leet code god  |
 
-Questions for tomorrow:
+Questions for Today:
 1. Two Sum
-2. Best Time to Buy and Sell Stocks
-3. Contains Duplicate
+2. Add Two Numbers
+3. Three Sum
 
 ## DS/A I'm focusing on:
 
