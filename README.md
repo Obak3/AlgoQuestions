@@ -11,7 +11,7 @@ lol I'm going to run through the Blind 75 for the most part....
 
 | Question Name | Approach | Insight |
 | ----------- | ----------- | -------------- |
-| lmfao    | Placeholder      | I'm going to become a leet code god  |
+| Two Sum | Placeholder      | I'm going to become a leet code god  |
 
 ## DS/A I'm focusing on:
 
