@@ -9,6 +9,10 @@ The questions are basically just the top questions from all DS/A categories w/o 
 
 lol I'm going to run through the Blind 75 for the most part....
 
+| Question Name | Approach | Insight |
+| ----------- | ----------- | -------------- |
+| lmfao    | Placeholder      | I'm going to become a leet code god  |
+
 ## DS/A I'm focusing on:
 
 1. Arrays
