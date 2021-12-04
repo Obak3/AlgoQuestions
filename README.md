@@ -13,6 +13,11 @@ lol I'm going to run through the Blind 75 for the most part....
 | ----------- | ----------- | -------------- |
 | Two Sum | Placeholder      | I'm going to become a leet code god  |
 
+Questions for tomorrow:
+1. Two Sum
+2. Best Time to Buy and Sell Stocks
+3. Contains Duplicate
+
 ## DS/A I'm focusing on:
 
 1. Arrays
