@@ -7,6 +7,7 @@ Tracking my questions that I complete on LeetCode for interview prep and for fun
 lol I'm going to run through the Blind 75 for the most part....
 
 Attached is the Google Sheet that I'm using to track all of my LC Problems and the notes that I have on them.
+
 Question notes are [here](https://docs.google.com/spreadsheets/d/1jnZvayTw7E8FJHwB17WDax416xNtIcF3_8L-qy7_lUs/edit#gid=0)
 
 ## DS/A I'm focusing on:
