@@ -4,7 +4,7 @@ Tracking my questions that I complete on LeetCode for interview prep and for fun
 
 ## Question List
 
-lol I'm going to run through the Blind 75 for the most part....
+Question List can be found here: [Questions](https://github.com/Obak3/CrackingMyCodingInt/blob/main/Notes/Questions.md)
 
 Attached is the Google Sheet that I'm using to track all of my LC Problems and the notes that I have on them.
 
