@@ -4,11 +4,11 @@ Tracking my questions that I complete on LeetCode for interview prep and for fun
 
 ## Question List
 
-Question List can be found here: [Questions](https://github.com/Obak3/CrackingMyCodingInt/blob/main/Notes/Questions.md)
-
-Attached is the Google Sheet that I'm using to track all of my LC Problems and the notes that I have on them.
-
-Question notes are [here](https://docs.google.com/spreadsheets/d/1jnZvayTw7E8FJHwB17WDax416xNtIcF3_8L-qy7_lUs/edit#gid=0)
+| Question Name | Approach | Insight |
+| ----------- | ----------- | -------------- |
+| Two Sum | Brute force is to use two loops for the first val and check the rest of the values. Optimal approach is a
+hashmap that you update so you can access it in constant lookup time. | When in doubt, see if you can cast things to a
+HashMap to reduce lookup time and not get exponential time complexity |
 
 ## DS/A I'm focusing on:
 
