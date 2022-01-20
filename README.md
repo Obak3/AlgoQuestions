@@ -11,7 +11,9 @@ lol I'm just going to go through the 'Top Interview Questions' from LC and then 
 
 | Question Name | Approach | Insight |
 | ----------- | ----------- | -------------- |
-| Two Sum | Placeholder      | I'm going to become a leet code god  |
+| Two Sum | Brute force is to use two loops for the first val and check the rest of the values. Optimal approach is a
+hashmap that you update so you can access it in constant lookup time. | When in doubt, see if you can cast things to a
+HashMap to reduce lookup time and not get exponential time complexity |
 
 Questions for Today:
 1. Two Sum
