@@ -1,10 +1,16 @@
+'''
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+'''
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-	nums = [2,7,11,15]
-	
-	for i in range(len(nums)): 
-		validSum = target - nums[i]
-		nums = nums[i:]
-		
-		if validSum in nums:
-			return (i, nums.index(validSum))
+        # Create a solutions hashmap
+        base_hashmap = {}
+        # Iterate through the array
+        for i, val in enumerate(nums):
+            complement = target - val
+            # Check if the complement to the target is in the map
+            if complement in base_hashmap:
+                # Return an array of the two index values
+                return [base_hashmap[complement], i]
+            base_hashmap[val] = i
