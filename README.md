@@ -12,9 +12,6 @@ Tracking my questions that I complete on LeetCode for interview prep and for fun
  track if something is contained and if it isn't insert it into the map |
  | Single Number | Hashmap for tracking how many times a number appears. Iterate through the map after and return the
  key where the val is 1. | Basically what the other part said.  |
- | Contains Duplicate | Check the length of the array against the length of the set.... this is kinda jank though to be
- honest. | Use a Hashmap and add it to the hashmap if its not seen, if it has been then you would just return true. O(N)
- and singular pass. | 
 
 
 ## DS/A I'm focusing on:
