@@ -1,6 +1,7 @@
 # CrackingMyCodingInt
 
-Tracking my questions that I complete on LeetCode for interview prep and for fun honestly. Below is the
+I got the job at Adobe, but I kind of miss these questions so I'm going back through the Neetcode 150 list. Let's see how consistent I am lol....
+
 
 ## Question List
 
@@ -14,17 +15,3 @@ Tracking my questions that I complete on LeetCode for interview prep and for fun
  key where the val is 1. | Basically what the other part said.  |
 
 
-## DS/A I'm focusing on:
-
-1. Arrays
-2. Hash Maps
-3. Trees
-4. Stacks
-5. BST's
-6. Strings
-7. Graphs
-8. Queues
-9. Heaps
-
-
-UPDATE: Got a job at Adobe!!!
