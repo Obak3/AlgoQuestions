@@ -9,4 +9,5 @@ This is the list: [List](neetcode.io)
 | Question Name | Approach | Insight |
 | ----------- | ----------- | -------------- |
 | Contains Duplicate | Two ways; hashmap where you add the value as the key and the value for the key as the count of occurences and also check the length of a set of the given array against the len of the given array. | Python is sick. |
+| Valid Anagram | Two ways; cast both strings to a list, sort it, and then check if they're equal and then you could do a map. | Python is still sick. |
 
