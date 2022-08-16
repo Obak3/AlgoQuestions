@@ -1,4 +1,4 @@
-# CrackingMyCodingInt
+# Algorithmic Questions
 
 I got the job at Adobe, but I kind of miss these questions so I'm going back through the Neetcode 150 list. Let's see how consistent I am lol....
 
