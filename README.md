@@ -2,6 +2,8 @@
 
 I got the job at Adobe, but I kind of miss these questions so I'm going back through the Neetcode 150 list. Let's see how consistent I am lol....
 
+This is the list: [List](neetcode.io)
+
 
 ## Question List
 
